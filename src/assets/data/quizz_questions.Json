@@ -1,0 +1,79 @@
+{
+  "title":" Você é o Protagonista ou o Vilão de K-DRAMA? 🎬",
+  "questions":[
+    {
+      "id":1,
+      "question": " Como você lida com desafios?",
+      "options":[
+        {"id": 1, "name":"Enfrento com determinação e nunca desisto!", "alias":"B"},
+        {"id": 2, "name":"Uso minha inteligência para virar o jogo a meu favor.", "alias":"B"},
+        {"id": 3, "name":"Manipulo as pessoas para alcançar meus objetivos. ", "alias":"A"},
+        {"id": 4, "name":"Se for preciso, elimino qualquer obstáculo.", "alias":"A"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "O que motiva você?",
+      "options":[
+        {"id": 1, "name":"Justiça e o desejo de fazer o bem.", "alias":"B"},
+        {"id": 2, "name":"Superar meu passado difícil e provar meu valor.", "alias":"B"},
+        {"id": 3, "name":"Poder e controle sobre tudo ao meu redor.", "alias":"A"},
+        {"id": 4, "name":"Vingança contra aqueles que me prejudicaram.", "alias":"A"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Se alguém te trai, o que você faz?",
+      "options":[
+        {"id": 1, "name":"Perdoo e sigo em frente, a vida é feita de escolhas.", "alias":"B"},
+        {"id": 2, "name":"Dou uma lição para que nunca mais tentem me enganar.", "alias":"A"},
+        {"id": 3, "name":"Faço questão de destruir essa pessoa.", "alias":"A"},
+        {"id": 4, "name":"Uso a traição como um trampolim para meu próprio sucesso.", "alias":"B"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Como as pessoas te descreveriam?",
+      "options":[
+        {"id": 1, "name":"Frio(a) e manipulador(a). ", "alias":"A"},
+        {"id": 2, "name":"Corajoso(a) e inspirador(a).", "alias":"B"},
+        {"id": 3, "name":"Assustador(a) e implacável.", "alias":"A"},
+        {"id": 4, "name":"Misterioso(a) e estratégico(a).", "alias":"B"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "O que você faria se te oferecesse muito dinheiro para fazer algo questionável?",
+      "options":[
+        {"id": 1, "name":"Recusaria. Minha moral vale mais.", "alias":"B"},
+        {"id": 2, "name":"Aceitaria sem pensar duas vezes.", "alias":"A"},
+        {"id": 2, "name":"Avaliaria os prós e contras antes de decidir.", "alias":"B"},
+        {"id": 2, "name":"Pegaria o dinheiro e ainda enganaria quem me contratou.", "alias":"A"}
+      ]
+    },
+    {
+      "id":6,
+      "question": "Qual sua frase de efeito?",
+      "options":[
+        {"id": 1, "name":"No final, todos dançam conforme a minha música.", "alias":"A"},
+        {"id": 2, "name":"Não importa o que aconteça, sempre lutarei pelo que é certo!", "alias":"B"},
+        {"id": 2, "name":"Se quer guerra, então se prepare para perder tudo.", "alias":"A"},
+        {"id": 2, "name":"O destino pode ser cruel, mas eu sou mais forte.", "alias":"B"}
+      ]
+    },
+    {
+      "id":7,
+      "question": "Como você lida com o amor em sua vida?",
+      "options":[
+        {"id": 1, "name":"Uso o amor para manipular os outros.", "alias":"A"},
+        {"id": 2, "name":"Vejo o amor como fraqueza.", "alias":"A"},
+        {"id": 2, "name":"Às vezes sou frio, mas no fundo só quero ser amado.", "alias":"B"},
+        {"id": 2, "name":"Protejo quem amo a qualquer custo.", "alias":"B"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você é O VILÃO IMPLACÁVEL!",
+    "B": "Você é O PROTAGONISTA HEROICO!"
+  }
+}
