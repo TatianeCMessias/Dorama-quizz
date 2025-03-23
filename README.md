@@ -1,4 +1,7 @@
-# DORAMA QUIZ
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/71170d0f-d3dd-4d24-a3df-e3cfa9a7e0a6" width="500" alt="DORAMA QUIZ">
+  </br>
+</div>
 
 ## Introdução:
 O objetivo deste projeto é permitir que os usuários respondam perguntas de múltipla escolha sobre doramas e recebam um feedback imediato sobre suas respostas.
