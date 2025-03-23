@@ -17,8 +17,7 @@ O objetivo deste projeto é permitir que os usuários respondam perguntas de mú
 - Exibir uma pergunta por vez com múltiplas opções.
 - Permitir que o usuário selecione uma resposta.
 - Verificar automaticamente se a resposta está correta.
-- Exibir um feedback imediato ao usuário.
-- Mostrar o resultado final do quiz, incluindo a pontuação do jogador.
+- Mostrar o resultado final do quiz.
 - Interface responsiva e intuitiva para uma melhor experiência do usuário.
 
 ## Como Executar o Projeto
