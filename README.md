@@ -48,4 +48,4 @@ O objetivo deste projeto é permitir que os usuários respondam perguntas de mú
 
 ## Conclusão:
 O Dorama Quiz é uma aplicação divertida e educativa para os fãs de doramas testarem sua personalidade para saber se é um vilão ou protagonista. 
-O projeto pode ser expandido com novas funcionalidades, como temporizador, sistema de níveis e ranking de jogadores. 
+O projeto pode ser expandido com novas funcionalidades, como temporizador. 
