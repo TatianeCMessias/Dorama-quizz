@@ -9,7 +9,7 @@ O objetivo deste projeto é permitir que os usuários respondam perguntas de mú
 - Visual Studio Code
 - Navegador moderno (Chrome, Edge)
 
-## Serviços Utilizados:
+## Serviço Utilizado:
 [Github](https://github.com/)
 
 
