@@ -66,6 +66,7 @@ export class QuizzComponent implements OnInit {
     const result = respostas.reduce((previous, current, i, arr)=>{
       if(
         arr.filter(item => item === previous).length >
+
         arr.filter(item => item === current).length
       ){
         console.log(previous);
@@ -79,4 +80,11 @@ export class QuizzComponent implements OnInit {
     return result
   }
 
+  restartQuiz() {
+    this.finished = false;
+    this.questionIndex = 0;
+    this.respostas = [];
+    this.respostaSelected = "";
+    this.questionSelected = this.questions[this.questionIndex];
+  }
 }
