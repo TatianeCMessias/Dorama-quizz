@@ -4,7 +4,7 @@
 </div>
 
 ## Introdução:
-O objetivo deste projeto é permitir que os usuários respondam perguntas de múltipla escolha sobre doramas e recebam um feedback imediato sobre suas respostas.
+O objetivo deste projeto é oferecer uma experiência interativa em que os usuários respondam a perguntas de múltipla escolha para descobrir se sua personalidade se alinha mais com a de um vilão ou de um protagonista de doramas. Ao final do questionário, eles receberão um feedback imediato, proporcionando uma experiência envolvente e divertida.
 
 ## Requisitos:
 - Node.js (versão 16.20.2)
