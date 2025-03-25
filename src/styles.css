@@ -9,7 +9,12 @@
 }
 
 body{
-  background-color: #ad789b;
+  background-color: #1b1218;
+
+    background-image: url('../src/assets/imgs/amanha.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 html, body { height: 100%; }
