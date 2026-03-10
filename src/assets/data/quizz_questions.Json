@@ -6,9 +6,9 @@
       "question": " Como você lida com desafios?",
       "options":[
         {"id": 1, "name":"Enfrento com determinação e nunca desisto!", "alias":"B"},
-        {"id": 2, "name":"Uso minha inteligência para virar o jogo a meu favor.", "alias":"B"},
+        {"id": 2, "name":"Uso minha inteligência para virar o jogo a meu favor.", "alias":"A"},
         {"id": 3, "name":"Manipulo as pessoas para alcançar meus objetivos. ", "alias":"A"},
-        {"id": 4, "name":"Se for preciso, elimino qualquer obstáculo.", "alias":"A"}
+        {"id": 4, "name":"Se for preciso, elimino qualquer obstáculo.", "alias":"B"}
       ]
     },
     {
@@ -73,7 +73,7 @@
     }
   ],
   "results":{
-    "A": "Você é O VILÃO IMPLACÁVEL!",
-    "B": "Você é O PROTAGONISTA HEROICO!"
+    "A": "Você é O VILÃO IMPLACÁVEL!!",
+    "B": "Você é O PROTAGONISTA HEROICO!!"
   }
 }
